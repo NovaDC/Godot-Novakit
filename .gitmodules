@@ -1,0 +1,78 @@
+[submodule "submodules/Godot-NovaTools"]
+	path = submodules/Godot-NovaTools
+	url = https://github.com/NovaDC/Godot-Novatools.git
+[submodule "submodules/Godot-AboutDialog"]
+	path = submodules/Godot-AboutDialog
+	url = https://github.com/NovaDC/Godot-About-Dialog.git
+[submodule "submodules/Godot-AdvancedBillboard"]
+	path = submodules/Godot-AdvancedBillboard
+	url = https://github.com/NovaDC/Godot-AdvancedBillboard.git
+[submodule "submodules/Godot-AutoScrollContainer"]
+	path = submodules/Godot-AutoScrollContainer
+	url = https://github.com/NovaDC/Godot-AutoScrollContainer.git
+[submodule "submodules/Godot-BFMachine"]
+	path = submodules/Godot-BFMachine
+	url = https://github.com/NovaDC/Godot-BFMachine.git
+[submodule "submodules/Godot-ButlerExportPlugin"]
+	path = submodules/Godot-ButlerExportPlugin
+	url = https://github.com/NovaDC/Godot-ButlerExportPlugin.git
+[submodule "submodules/Godot-CommandExportPlugin"]
+	path = submodules/Godot-CommandExportPlugin
+	url = https://github.com/NovaDC/Godot-CommandExportPlugin.git
+[submodule "submodules/Godot-DateTimeLabel"]
+	path = submodules/Godot-DateTimeLabel
+	url = https://github.com/NovaDC/Godot-DateTimeLabel.git
+[submodule "submodules/Godot-DebugInfoControls"]
+	path = submodules/Godot-DebugInfoControls
+	url = https://github.com/NovaDC/Godot-DebugInfoControls.git
+[submodule "submodules/Godot-DocExportPlatform"]
+	path = submodules/Godot-DocExportPlatform
+	url = https://github.com/NovaDC/Godot-DocExportPlatform.git
+[submodule "submodules/Godot-DrawnArea2D"]
+	path = submodules/Godot-DrawnArea2D
+	url = https://github.com/NovaDC/Godot-DrawnArea2D.git
+[submodule "submodules/Godot-FrameLimitControls"]
+	path = submodules/Godot-FrameLimitControls
+	url = https://github.com/NovaDC/Godot-FrameLimitControls.git
+[submodule "submodules/Godot-MusicMetadata"]
+	path = submodules/Godot-MusicMetadata
+	url = https://github.com/NovaDC/Godot-MusicMetadata.git
+[submodule "submodules/Godot-PauseControls"]
+	path = submodules/Godot-PauseControls
+	url = https://github.com/NovaDC/Godot-PauseControls.git
+[submodule "submodules/Godot-PlaytimeTimer"]
+	path = submodules/Godot-PlaytimeTimer
+	url = https://github.com/NovaDC/Godot-PlaytimeTimer.git
+[submodule "submodules/Godot-QuitButton"]
+	path = submodules/Godot-QuitButton
+	url = https://github.com/NovaDC/Godot-QuitButton.git
+[submodule "submodules/Godot-RSS"]
+	path = submodules/Godot-RSS
+	url = https://github.com/NovaDC/Godot-RSS.git
+[submodule "submodules/Godot-SceneInstantiateControls"]
+	path = submodules/Godot-SceneInstantiateControls
+	url = https://github.com/NovaDC/Godot-SceneInstantiateControls.git
+[submodule "submodules/Godot-SceneSwitchControls"]
+	path = submodules/Godot-SceneSwitchControls
+	url = https://github.com/NovaDC/Godot-SceneSwitchControls.git
+[submodule "submodules/Godot-SourceExportPlatform"]
+	path = submodules/Godot-SourceExportPlatform
+	url = https://github.com/NovaDC/Godot-SourceExportPlatform.git
+[submodule "submodules/Godot-Spyglass"]
+	path = submodules/Godot-Spyglass
+	url = https://github.com/NovaDC/Godot-Spyglass.git
+[submodule "submodules/Godot-VCSExportPlatform"]
+	path = submodules/Godot-VCSExportPlatform
+	url = https://github.com/NovaDC/Godot-VCSExportPlatform.git
+[submodule "submodules/Godot-VideoExportPlatform"]
+	path = submodules/Godot-VideoExportPlatform
+	url = https://github.com/NovaDC/Godot-VideoExportPlatform.git
+[submodule "submodules/Godot-VisibilityButtons"]
+	path = submodules/Godot-VisibilityButtons
+	url = https://github.com/NovaDC/Godot-VisibilityButtons.git
+[submodule "submodules/Godot-VolumeControls"]
+	path = submodules/Godot-VolumeControls
+	url = https://github.com/NovaDC/Godot-VolumeControls.git
+[submodule "submodules/Godot-WindowButtons"]
+	path = submodules/Godot-WindowButtons
+	url = https://github.com/NovaDC/Godot-WindowButtons.git
