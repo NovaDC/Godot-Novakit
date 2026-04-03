@@ -20,6 +20,15 @@ config/version="v1.0.0.0"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://addons/novatools/icon.svg"
 
+[autoload]
+
+TreeWatcher="*uid://byto6ql37kfie"
+PlaytimeManager="*uid://dwsbl0i7h0fi0"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/about_dialog/plugin.cfg", "res://addons/advanced_billboard/plugin.cfg", "res://addons/autoscroll_container/plugin.cfg", "res://addons/bf_machine/plugin.cfg", "res://addons/butler_export_plugin/plugin.cfg", "res://addons/commands_export_plugin/plugin.cfg", "res://addons/date_time_label/plugin.cfg", "res://addons/debug_info_controls/plugin.cfg", "res://addons/doc_export_platform/plugin.cfg", "res://addons/drawn_area_2d/plugin.cfg", "res://addons/frame_limit_controls/plugin.cfg", "res://addons/godot_rss/plugin.cfg", "res://addons/gut/plugin.cfg", "res://addons/music_metadata/plugin.cfg", "res://addons/novatools/plugin.cfg", "res://addons/pause_resume_buttons/plugin.cfg", "res://addons/pause_visible_control/plugin.cfg", "res://addons/playtime_timer/plugin.cfg", "res://addons/quit_button/plugin.cfg", "res://addons/scene_instantiate_controls/plugin.cfg", "res://addons/scene_load_buttons/plugin.cfg", "res://addons/source_export_platform/plugin.cfg", "res://addons/spyglass/plugin.cfg", "res://addons/vcs_export_platform/plugin.cfg", "res://addons/video_export_platform/plugin.cfg", "res://addons/visibility_buttons/plugin.cfg", "res://addons/volume_controls/plugin.cfg", "res://addons/window_buttons/plugin.cfg")
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
